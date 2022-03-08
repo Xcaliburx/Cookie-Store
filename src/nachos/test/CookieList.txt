@@ -1,0 +1,3 @@
+james Cookie#Large#50000
+Nael Cookie#Medium#60000
+asdas Cookie#Small#40000
